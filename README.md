@@ -1,4 +1,4 @@
-# hola_mundo
+# hola/mundo
 primer repositorio de prueba
 
 Autor:
